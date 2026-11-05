@@ -1,6 +1,7 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-**Name       :** **Karthickkumar R**
-**Register No:** **212223040087** 
+**Name       :** Karthickkumar R
+
+**Register No:** 212223040087
 
 
 ## Aim:
