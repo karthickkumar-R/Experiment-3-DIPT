@@ -138,19 +138,29 @@ plt.show()
 ---
 
 ##  Output
+### Original Image:
 
 <img width="350" height="430" alt="Screenshot 2026-11-06 154321" src="https://github.com/user-attachments/assets/0361c1e0-c603-4ee0-a40c-b77503b5c2ef" />
 
 <img width="607" height="437" alt="Screenshot 2026-11-06 154342" src="https://github.com/user-attachments/assets/ac037331-4fb1-426a-95e8-ae99b577fabb" />
 
+### Equalized histogram:
+
 <img width="593" height="431" alt="Screenshot 2026-11-06 154353" src="https://github.com/user-attachments/assets/2ed57b7e-9e1e-4884-8c32-b8425d58f8bd" />
+
+### Original Image:
 
 <img width="367" height="437" alt="Screenshot 2026-11-06 154401" src="https://github.com/user-attachments/assets/49782c5c-47a2-4980-81e3-8107a5df9116" />
 
+## Equalized Image:
+
 <img width="362" height="432" alt="Screenshot 2026-11-06 154409" src="https://github.com/user-attachments/assets/2349d784-f73a-45f2-8391-6cb2e1d64368" />
 
-<img width="587" height="432" alt="Screenshot 2026-11-06 154419" src="https://github.com/user-attachments/assets/b83749c4-660a-4d6f-b55f-b39b5c155a46" />
+## Histogram Equalized:
 
+<img width="587" height="432" alt="Screenshot 2026-11-06 154419" src="https://github.com/user-attachments/assets/b83749c4-660a-4d6f-b55f-b39b5c155a46" />
+ 
+## Original colour image and Equalized Image:
 <img width="1096" height="397" alt="Screenshot 2026-11-06 154428" src="https://github.com/user-attachments/assets/93b86a91-eaed-4f5d-abaa-55a9df07c0f4" />
 
 <img width="1101" height="337" alt="Screenshot 2026-11-06 154438" src="https://github.com/user-attachments/assets/b7b3cad4-36e2-4524-a82f-1484ee3bb2e5" />
