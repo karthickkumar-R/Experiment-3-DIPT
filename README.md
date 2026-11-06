@@ -1,7 +1,7 @@
 # Histogram Equalization Using OpenCV (Grayscale & Color Images)
-**Name       :** Karthickkumar R
 
-**Register No:** 212223040087
+## Name       : Karthickkumar R
+## Register No: 212223040087
 
 
 ## Aim:
@@ -79,7 +79,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-img_gray = cv2.imread('parrot.jpg', cv2.IMREAD_GRAYSCALE)
+img_gray = cv2.imread('3d.jpg', cv2.IMREAD_GRAYSCALE)
 
 plt.figure(figsize=(10, 4))
 plt.subplot(1, 2, 1)
@@ -105,7 +105,7 @@ plt.title('Equalized Grayscale Histogram')
 plt.show()
 
 
-img_color = cv2.imread('parrot.jpg', cv2.IMREAD_COLOR)
+img_color = cv2.imread('3d.jpg', cv2.IMREAD_COLOR)
 img_hsv = cv2.cvtColor(img_color, cv2.COLOR_BGR2HSV)
 
 
@@ -139,21 +139,21 @@ plt.show()
 
 ##  Output
 
-<img width="502" height="337" alt="Screenshot 2026-11-06 001040" src="https://github.com/user-attachments/assets/fb4772a8-6b68-4df4-8e53-8770e6db92e9" />
+<img width="350" height="430" alt="Screenshot 2026-11-06 154321" src="https://github.com/user-attachments/assets/0361c1e0-c603-4ee0-a40c-b77503b5c2ef" />
 
-<img width="598" height="440" alt="Screenshot 2026-11-06 001145" src="https://github.com/user-attachments/assets/ddb6eac9-2e1d-4c5f-a692-2e3b5c8107b3" />
+<img width="607" height="437" alt="Screenshot 2026-11-06 154342" src="https://github.com/user-attachments/assets/ac037331-4fb1-426a-95e8-ae99b577fabb" />
 
-<img width="600" height="442" alt="Screenshot 2026-11-06 001512" src="https://github.com/user-attachments/assets/abc9dccf-7733-4706-a47d-a90c88b1ad79" />
+<img width="593" height="431" alt="Screenshot 2026-11-06 154353" src="https://github.com/user-attachments/assets/2ed57b7e-9e1e-4884-8c32-b8425d58f8bd" />
 
-<img width="588" height="393" alt="Screenshot 2026-11-06 001523" src="https://github.com/user-attachments/assets/03d6eb8d-d3ae-46d4-91ee-b9ff0ad0cb7d" />
+<img width="367" height="437" alt="Screenshot 2026-11-06 154401" src="https://github.com/user-attachments/assets/49782c5c-47a2-4980-81e3-8107a5df9116" />
 
-<img width="562" height="397" alt="Screenshot 2026-11-06 001625" src="https://github.com/user-attachments/assets/c3e4237d-52b5-4f34-9b7e-adb4aaa8cfd7" />
+<img width="362" height="432" alt="Screenshot 2026-11-06 154409" src="https://github.com/user-attachments/assets/2349d784-f73a-45f2-8391-6cb2e1d64368" />
 
-<img width="611" height="430" alt="Screenshot 2026-11-06 001633" src="https://github.com/user-attachments/assets/adb84b0d-27b5-4f04-8e0c-77102a42dad6" />
+<img width="587" height="432" alt="Screenshot 2026-11-06 154419" src="https://github.com/user-attachments/assets/b83749c4-660a-4d6f-b55f-b39b5c155a46" />
 
-<img width="1122" height="327" alt="Screenshot 2026-11-06 001645" src="https://github.com/user-attachments/assets/4143e5f4-bac4-43a4-9dee-48cbe421318f" />
+<img width="1096" height="397" alt="Screenshot 2026-11-06 154428" src="https://github.com/user-attachments/assets/93b86a91-eaed-4f5d-abaa-55a9df07c0f4" />
 
-<img width="1103" height="337" alt="Screenshot 2026-11-06 001805" src="https://github.com/user-attachments/assets/842be63b-7330-4060-b11e-76a615695bc7" />
+<img width="1101" height="337" alt="Screenshot 2026-11-06 154438" src="https://github.com/user-attachments/assets/b7b3cad4-36e2-4524-a82f-1484ee3bb2e5" />
 
 ---
 
